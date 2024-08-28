@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MenuPlanner</string>
+    <string name="menu_planner_app_name">Menu Planner</string>
 </resources>
