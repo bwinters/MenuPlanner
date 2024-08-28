@@ -1,0 +1,72 @@
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio files
+/.idea
+.gradle
+/local.properties
+/.gradle
+
+# Android build files
+/build
+/.externalNativeBuild
+
+# Java and Kotlin files
+*.iml
+*.ipr
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse files
+.project
+.classpath
+
+# Android Studio navigation files
+.navigation
+
+# Android Studio generated files
+captures
+.output
+
+# Log files
+*.log
+
+# Gradle files
+.gradle/
+build/
+
+
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
